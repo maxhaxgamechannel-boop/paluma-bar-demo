@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <!-- PLATZHALTER-ILLUSTRATION (eigene Zeichnung, kein Foto). Durch echtes Foto ersetzen. -->
+  <rect width="400" height="400" fill="#fbf6f1"/>
+  <circle cx="200" cy="210" r="140" fill="#f4e6df"/>
+  <g fill="#b3261e">
+    <path d="M104 92h14v62c0 8 20 14 20 34v122a8 8 0 0 1-8 8H92a8 8 0 0 1-8-8V188c0-20 20-26 20-34z"/>
+    <path d="M168 72h14v76c0 8 22 16 22 38v124a8 8 0 0 1-8 8h-42a8 8 0 0 1-8-8V186c0-22 22-30 22-38z" fill-opacity=".6"/>
+    <path d="M234 102h14v56c0 8 20 12 20 32v120a8 8 0 0 1-8 8h-38a8 8 0 0 1-8-8V190c0-20 20-24 20-32z"/>
+  </g>
+  <g fill="#fbf6f1">
+    <rect x="90" y="226" width="42" height="40" rx="3"/>
+    <rect x="160" y="222" width="30" height="44" rx="3" fill-opacity=".9"/>
+    <rect x="220" y="226" width="42" height="40" rx="3"/>
+  </g>
+  <!-- Glas -->
+  <g fill="none" stroke="#2b1b18" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M288 196h50c0 34-8 56-25 58-17-2-25-24-25-58z"/>
+    <path d="M313 254v52M294 318h38"/>
+  </g>
+  <path d="M290 222h46c-2 18-9 30-23 32-14-2-21-14-23-32z" fill="#b3261e"/>
+</svg>
